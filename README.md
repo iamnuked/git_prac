@@ -113,6 +113,7 @@ conflict가 나면 `README.md`에 아래처럼 표시됩니다.
 우리는 GitHub 협업과 PR 리뷰를 연습합니다.
 ```
 
+Nick이 juddy 집 앞에 늑대 거북이를 가져다 두다.
 
 sonny
 
