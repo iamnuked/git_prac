@@ -109,14 +109,18 @@ git merge origin/main
 conflict가 나면 `README.md`에 아래처럼 표시됩니다.
 
 ```md
-<<<<<<< HEAD
 우리는 GitHub 협업과 merge conflict 해결을 연습합니다.
-=======
 우리는 GitHub 협업과 PR 리뷰를 연습합니다.
->>>>>>> main
 ```
 
 Nick이 juddy 집 앞에 늑대 거북이를 가져다 두다.
+
+sonny
+
+hoseok
+
+### 해결 방법
+Nick
 ### 해결 방법 
 
 
